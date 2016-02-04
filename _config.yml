@@ -1,0 +1,28 @@
+name: cannian
+favicon: null
+layout_spectrum: 0.9279638973530382
+typography_spectrum: 0.6971734128892422
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.4417341051157564
+  lightness: 0.8660894786007702
+  saturation: 0.16503306035883725
+  rhythmicContrast: 0.7214513043873012
+purpose: []
